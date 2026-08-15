@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **suhailsama89@gmail.com**
 
-- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/16sdNBYe9HZdMMI6KMKDTLL2C4rRLPr7L/view?usp=sharing))
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/16sdNBYe9HZdMMI6KMKDTLL2C4rRLPr7L/view?usp=sharing)
 
 <br/>
 

@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Campusquare** and other Java-based backend projects.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Suhail-sama]
+- 👨‍💻 All of my projects are available at [https://github.com/Suhail-sama?tab=repositories]
 
 - 💬 Ask me about **Java, Spring Boot, and Backend Development**
 
